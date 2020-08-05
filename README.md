@@ -37,9 +37,7 @@
 
 ---
 
-<img align="left" alt="romangrubic's Github Stats" src="https://github-readme-stats.vercel.app/api?username=romangrubic&show_icons=true&hide_border=true&hide=stars,prs,issues,contribs" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romangrubic&layout=compact&count_private=true)](https://github.com/romangrubic/github-readme-stats)
+<img align="left" alt="romangrubic's Github Stats" src="https://github-readme-stats.vercel.app/api?username=romangrubic&show_icons=true&hide_border=true&hide=stars,prs,issues,contribs" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romangrubic&layout=compact&count_private=true)](https://github.com/romangrubic/github-readme-stats)
 
 [website]: https://romangrubic.dev
 [linkedin]: https://www.linkedin.com/in/roman-grubic/
