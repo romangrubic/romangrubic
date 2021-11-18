@@ -2,10 +2,8 @@
 
 - Studying SQL and PHP at the moment.
 
-### Connect with me on [<img alt="RomanGrubic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+### Connect with me [<img alt="RomanGrubic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
-
 ---
 
 ### Languages and Tools:
@@ -23,7 +21,7 @@
 
 ---
 
-<img align="center" alt="romangrubic's Github Stats" src="https://github-readme-stats.vercel.app/api?username=romangrubic&show_icons=true&hide_border=true&hide=stars,prs,issues,contribs" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romangrubic&layout=compact&count_private=true)](https://github.com/romangrubic/github-readme-stats)
+<img align="left" alt="romangrubic's Github Stats" src="https://github-readme-stats.vercel.app/api?username=romangrubic&show_icons=true&hide_border=true&hide=stars,prs,issues,contribs" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romangrubic&layout=compact&count_private=true)](https://github.com/romangrubic/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/roman-grubic/
 
